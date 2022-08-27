@@ -1,5 +1,5 @@
 body{
-  background-color: whitesmoke
+  background-image: linear-gradient(rgb(3, 3, 100), rgb(184, 184, 184)); 
 }
 
 @tailwind base;
