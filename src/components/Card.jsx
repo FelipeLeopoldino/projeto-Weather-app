@@ -30,6 +30,6 @@ function Card({ data }) {
 
 export default Card;
 
-Card.prototype = {
+Card.propTypes = {
   data: propTypes.object
 }.isRequired;
