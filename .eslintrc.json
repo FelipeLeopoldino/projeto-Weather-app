@@ -19,8 +19,7 @@
     },
     "plugins": [
         "react",
-        "import",
-        "promise"
+        "import"
     ],
     
   "globals": {
