@@ -1,7 +1,5 @@
-
-<a </a>
-
 ## 💻 Weather-app
+
 A Weather-app é um aplicativo que lhe fornece a Temperatura e o clima de uma cidade específica!
 
 
