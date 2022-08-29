@@ -17,6 +17,7 @@
       "react"
   ],
   "rules": {
-  },
-  "after": { "overrides": { "?": "before", ":": "before" } }
+    "after": { "overrides": { "?": "before", ":": "before" } }
+  }
+  
 }
