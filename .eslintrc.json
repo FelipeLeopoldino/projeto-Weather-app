@@ -18,12 +18,7 @@
   ],
   "rules": {
   },
- 
-  "quotes": ["error", "double"],
-  "arrow-parens": ["error", "as-needed"],
-  "comma-dangle": ["error", "never"],
-
-  "extends": [
+   "extends": [
     "plugin:react/recommended"
 ]
  
